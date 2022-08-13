@@ -28,13 +28,13 @@
 ---
 
 ### About Me👲
--  🏄I love working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  🏄I love working as a Software Engineer and contributes to frontend and backend for building web applications.
 
 - 🔭 Exploring Technical Content Writing.
 
 - ⚡ In my free time, I solve problems on Geeks forGeeks and read tech articles.
 
-- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:koleajeolayinka@gmail.com)
+-  How to reach me, click the gmail bar [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:koleajeolayinka@gmail.com)
  ---
 
 ### 🔩 Languages and Tools
