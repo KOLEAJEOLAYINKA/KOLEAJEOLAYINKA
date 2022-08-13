@@ -20,8 +20,7 @@
   Welcome to Olayinka Koleaje's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&pause=1000&color=EE769B&background=000000&width=435&lines=Full-Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things;Experience+UI%2FUX+Designer+" alt="Typing SVG" /></a>
-
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&pause=1000&color=EE769B&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;1%2B+years+of+coding+experience;Always+Love+learning+new+things;Experienced+UI%2FUX+Designer+" alt="Typing SVG" /></a>
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -29,7 +28,7 @@
 ---
 
 ### About Me👲
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  🏄I love working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 🔭 Exploring Technical Content Writing.
 
