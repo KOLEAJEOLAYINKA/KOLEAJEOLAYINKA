@@ -16,7 +16,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=KOLEAJEOLAYINKA&style=flat-square&color=blue" alt=""/>
 
-<img src="https://komarev.com/ghpvc/?username=&color=green" alt="">
 <h1>
   Welcome to Olayinka Koleaje's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -32,11 +31,11 @@
 ### About Me👲
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🔭 Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Geeks forGeeks and read tech articles.
+- ⚡ In my free time, I solve problems on Geeks forGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olayinka-koleaje-7a9a82237/)
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olayinka-koleaje-7a9a82237/)
  ---
 
 ### 🔩 Languages and Tools
@@ -55,5 +54,6 @@
 ---
 
 ###  My Stats🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOLEAJEOLAYINKA&theme=dark&background=000000&fire=DD2727&ring=C644DD&currStreakNum=14FF3E&sideNums=3518DD&dates=63BFDD&sideLabels=DBDD3B)](https://git.io/streak-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOLEAJEOLAYINKA&theme=dark&background=000000&fire=DD2727&ring=C644DD&currStreakNum=14FF3E&sideNums=3518DD&dates=63BFDD&sideLabels=DBDD3B)](https://git.io/streak-stats)
+</div>
 </div>
