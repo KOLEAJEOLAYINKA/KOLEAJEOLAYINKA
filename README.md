@@ -53,9 +53,9 @@
 ---
 
 ###  My Stats🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOLEAJEOLAYINKA&theme=dark&background=000000&fire=DD2727&ring=C644DD&currStreakNum=14FF3E&sideNums=3518DD&dates=63BFDD&sideLabels=DBDD3B)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOLEAJEOLAYINKA&theme=dark&background=000000&fire=DD2727&ring=C644DD&currStreakNum=14FF3E&sideNums=3518DD&dates=63BFDD&sideLabels=DBDD3B)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOLEAJEOLAYINKA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOLEAJEOLAYINKA&layout=compact&theme=vision-friendly-dark)]()
 
 </div>
 </div>
