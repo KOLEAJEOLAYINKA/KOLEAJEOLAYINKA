@@ -16,6 +16,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=KOLEAJEOLAYINKA&style=flat-square&color=blue" alt=""/>
 
+
 <h1>
   Welcome to Olayinka Koleaje's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,6 +25,7 @@
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 
 ---
 
@@ -50,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
----
+
 
 ###  My Stats🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOLEAJEOLAYINKA&theme=dark&background=000000&fire=DD2727&ring=C644DD&currStreakNum=14FF3E&sideNums=3518DD&dates=63BFDD&sideLabels=DBDD3B)]
