@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
 
 
 <div id="badges">
@@ -20,11 +20,11 @@
 
 <h1>
   Welcome to Olayinka Koleaje's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
 </h1>
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&pause=1000&color=EE769B&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;1%2B+years+of+coding+experience;Always+Love+learning+new+things;Experienced+UI%2FUX+Designer+" alt="Typing SVG" /></a>
 <div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 </div>
 
 
