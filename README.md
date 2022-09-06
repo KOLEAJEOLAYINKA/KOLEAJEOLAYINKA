@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UCR5uv2VfZs8u8wL0OfpUerg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/tobitokunbo">
+  <a href="https://twitter.com/olayinkakoleaje">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
