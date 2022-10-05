@@ -40,7 +40,7 @@
 
 - ⚡ In my free time, I solve problems on Geeks forGeeks and read tech articles.
 
--  How to reach me, click the gmail bar [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:koleajeolayinka@gmail.com)
+-  How to reach me, click the gmail icon 👉 [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:koleajeolayinka@gmail.com)
  ---
 
 ### 🔩 Languages and Tools
