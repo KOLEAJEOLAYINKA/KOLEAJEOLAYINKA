@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/channel/UCR5uv2VfZs8u8wL0OfpUerg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/tobitokunbo">
+  <a href="https://twitter.com/olayinkakoleaje">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -23,7 +23,9 @@
   Welcome to Olayinka Koleaje's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
 </h1>
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Playball&pause=1000&color=EE769B&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;1%2B+years+of+coding+experience;Always+Love+learning+new+things;Experienced+UI%2FUX+Designer+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+;1%2B+years+of+coding+experience+;Always+Love+learning+new+things;+Experienced+UI%2FUX+Designer" alt="Typing SVG" /></a>
+
 <div>
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
@@ -40,7 +42,7 @@
 
 - ⚡ In my free time, I solve problems on Geeks forGeeks and read tech articles.
 
--  How to reach me, click the gmail bar [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:koleajeolayinka@gmail.com)
+-  How to reach me, click the gmail icon 👉 [![Gmail Badge](https://img.shields.io/badge/--white?style=flat&logo=Gmail&logoColor=red)](mailto:koleajeolayinka@gmail.com)
  ---
 
 ### 🔩 Languages and Tools
