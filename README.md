@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/olayinka-koleaje-7a9a82237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@koleajeolayinka">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
+  <a href="https://www.hackerrank.com/koleajeolayinka">
+    <img src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=green" alt="medium Badge"/>
   </a>
   <a href="https://twitter.com/olayinkakoleaje">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
